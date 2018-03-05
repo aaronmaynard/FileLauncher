@@ -1,0 +1,16 @@
+
+
+/------------------------------------------------------------------------------------------\
+WorldOfTanks 0.9.22.0 (compiled at 11:34:21 Jan 29 2018) starting on Mon Mar  5 01:52:08 2018
+
+2018-03-05 01:52:08.123: INFO: [Config] Command line: Z:/Games/WoT/WorldOfTanks.exe
+2018-03-05 01:52:09.932: INFO: [Config] Default encoding set to utf-8
+2018-03-05 01:52:09.986: INFO: [PY_DEBUG] Release Client - Content Type: sd
+
+2018-03-05 01:52:09.987: INFO: [PY_DEBUG] Checking ./mods/0.9.22.0: mods not found
+2018-03-05 01:52:19.035: NOTICE: [NOTE] (scripts/client/post_processing/__init__.py, 271): The quality = 3 was selected.
+2018-03-05 01:52:19.035: NOTICE: [NOTE] (scripts/client/post_processing/__init__.py, 271): The quality = 4 was selected.
+2018-03-05 01:52:23.420: INFO: PostProcessing.Phases.fini()
+
+\------------------------------------------------------------------------------------------/
+
