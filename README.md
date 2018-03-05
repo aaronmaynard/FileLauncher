@@ -1,6 +1,12 @@
 # FileLauncher
 A simple Java application for simple file manipulation and information.
 
+[![GitHub issues](https://img.shields.io/github/issues/aaronmaynard/FileLauncher.svg)](https://github.com/aaronmaynard/FileLauncher/issues)
+[![GitHub forks](https://img.shields.io/github/forks/aaronmaynard/FileLauncher.svg)](https://github.com/aaronmaynard/FileLauncher/network)
+[![GitHub stars](https://img.shields.io/github/stars/aaronmaynard/FileLauncher.svg)](https://github.com/aaronmaynard/FileLauncher/stargazers)
+[![GitHub license](https://img.shields.io/github/license/aaronmaynard/FileLauncher.svg)](https://github.com/aaronmaynard/FileLauncher/blob/master/LICENSE)
+![GitHub release](https://img.shields.io/github/release/aaronmaynard/FileLauncher.svg)
+
 | Feature     | Description |
 |   ---       |     ---     |
 | Open        | Opens the selected file in the JList using the default OS application  | 
